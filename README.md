@@ -3,7 +3,7 @@
 PhD student in Biomedical Engineering at Istanbul University–Cerrahpaşa (IUC), working at the intersection of **neuroengineering**, **computational neuroscience**, and **biomedical signal processing**.
 
 **Research interests**
--fMRI Image analysis for Brian anomlaity detection
+- fMRI Image analysis for Brian anomlaity detection
 - EEG/BCI and real-time neural signal processing
 - Closed-loop neurostimulation and neurotechnology
 - Computational modeling of brain-network dynamics (neuropsychiatric applications)
